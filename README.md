@@ -103,7 +103,7 @@ Screenshot:
  
 Web-ver
 
-![screenshots](screenshots/home.png)
+![screenshots](screenshots/Home.png)
 
 App-ver
 
