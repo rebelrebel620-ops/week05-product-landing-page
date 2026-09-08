@@ -68,6 +68,17 @@ The navigation bar contains:
 
 The navigation is responsive and changes into a mobile menu on smaller screens.
 
+Screenshot:
+ 
+Web-ver
+
+![screenshots](screenshots/Navbar.png)
+
+App-ver
+
+![screenshots](screenshots/Mobile_navbar.png)
+
+
 ---
 
 ## Hero Section
@@ -87,6 +98,16 @@ It contains:
 The main message of the hero section is:
 
 > Manage your work. Move faster.
+
+Screenshot:
+ 
+Web-ver
+
+![screenshots](screenshots/home.png)
+
+App-ver
+
+![screenshots](screenshots/Mobile_home.png)
 
 ---
 
@@ -173,6 +194,16 @@ Includes:
 
 The Professional plan is highlighted as the most popular plan.
 
+Screenshot:
+ 
+Web-ver
+
+![screenshots](screenshots/Pricing.png)
+
+App-ver
+
+![screenshots](screenshots/Mobile_pricing.png)
+
 ---
 
 ## Testimonials
@@ -192,6 +223,16 @@ Each testimonial contains:
 - Customer initials
 - Review
 - Five-star rating
+
+Screenshot:
+ 
+Web-ver
+
+![screenshots](screenshots/Testimonial.png)
+
+App-ver
+
+![screenshots](screenshots/Mobile_testimonial.png)
 
 ---
 
@@ -218,6 +259,16 @@ The footer contains:
 - Contact information
 - Social media icons
 - Copyright information
+
+Screenshot:
+ 
+Web-ver
+
+![screenshots](screenshots/Footer.png)
+
+App-ver
+
+![screenshots](screenshots/Mobile_footer.png)
 
 ---
 
@@ -831,7 +882,7 @@ The purpose of the initial version was to establish the basic structure of the l
 
 Screenshot:
 
-![Initial Home Page](screenshots/Home.png)
+![before Home Page](documentation/Before-Home.png)
 
 ---
 
@@ -855,7 +906,7 @@ The final version includes:
 
 Screenshot:
 
-![Initial Home Page](screenshots/Home.png)
+![after Home Page](screenshots/Home.png)
 
 The final seems not change but i improves the visual hierarchy and usability of the original basic layout.
 
