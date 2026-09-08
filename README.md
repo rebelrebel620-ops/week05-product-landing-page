@@ -831,9 +831,7 @@ The purpose of the initial version was to establish the basic structure of the l
 
 Screenshot:
 
-```text
-screenshots/before-design.png
-```
+![Initial Home Page](screenshots/Home.png)
 
 ---
 
@@ -857,36 +855,36 @@ The final version includes:
 
 Screenshot:
 
-```text
-screenshots/after-design.png
-```
+![Initial Home Page](screenshots/Home.png)
 
-The final design improves the visual hierarchy and usability of the original basic layout.
+The final seems not change but i improves the visual hierarchy and usability of the original basic layout.
 
 ---
 
 # Screenshots
 
-The project includes screenshots showing the development and final interface.
+The project includes screenshots showing the development process and final responsive interface.
 
 The screenshots include:
 
 ```text
 screenshots/
-│
-├── before-design.png
-├── after-design.png
-├── desktop.png
-├── tablet.png
-├── mobile.png
-├── navbar.png
-├── hero.png
-├── features.png
-├── pricing.png
-├── testimonials.png
-├── footer.png
-├── vscode-structure.png
-└── github-repository.png
+├── Contact.png
+├── Features.png
+├── Footer.png
+├── Home.png
+├── Mobile_contact.png
+├── Mobile_features.png
+├── Mobile_footer.png
+├── Mobile_home.png
+├── Mobile_navbar.png
+├── Mobile_pricing.png
+├── Mobile_testimonial.png
+├── Navbar.png
+├── Pricing.png
+├── Structure.png
+├── Tailwind_install.png
+└── Testimonial.png
 ```
 
 ---
